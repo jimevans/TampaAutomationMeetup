@@ -1,5 +1,5 @@
 ﻿// <copyright file="BrowserKind.cs" company="Jim Evans">
-// Copyright © 2013 Jim Evans
+// Copyright © 2018 Jim Evans
 // Licensed under the MIT license, as found in the LICENSE file accompanying this source code.
 // </copyright>
 
